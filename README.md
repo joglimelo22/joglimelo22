@@ -1,16 +1,16 @@
-### Hi there 👋
+Jogli Melo
+🚀 About me
 
-<!--
-**joglimelo22/joglimelo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Jogli Melo, I'm 21 years old. I live in Brazil. I'm a javascript and python developer. I've been working at Ateky Internet for 4 years, currently I'm a programmer and NOC
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Links
+
+portfolio linkedin twitter Instagram
+
+
+🛠 Skills
+
+My Skills
+
+Snake animation
